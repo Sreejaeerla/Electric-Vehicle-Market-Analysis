@@ -12,14 +12,6 @@ This project analyzes the European Electric Vehicle (EV) market using data colle
 * Perform exploratory data analysis (EDA).
 * Identify trends in range, efficiency, pricing, and vehicle performance.
 
-##  Project Structure
-
-
-Data_Scraping_EV.ipynb    # Web scraping
-Regex_Cleaning.ipynb     # Data cleaning and preprocessing
-EV_EDA.ipynb             # Exploratory data analysis
-README.md
-
 
 ##  Technologies Used
 
